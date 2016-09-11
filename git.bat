@@ -1,1 +1,1 @@
-call "e:\Disc D\All\PortableGit\git-bash.exe"
+START "" "e:\Disc D\All\PortableGit\git-bash.exe"
